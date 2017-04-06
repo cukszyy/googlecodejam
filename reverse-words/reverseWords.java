@@ -6,7 +6,7 @@ public class ReverseWords {
 		
 		Scanner sc = new Scanner(System.in);
 
-		// Number of lines. nextLine returns the number of lines on a String.
+		// Number of lines. nextLine returns the number of lines in a String.
 		int nLines =  Integer.valueOf(sc.nextLine());
 
 		for (int i = 1; i <= nLines ; i++) {
