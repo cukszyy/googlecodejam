@@ -13,7 +13,7 @@ int main(int argc, char const *argv[]) {
 	int t = 0, i = 0, k = 0;			// Counter.
 	int matchKIndex = -1;				// Index [k] of the matched number.
 	
-	char filepath[] = "/Users/Lucas/Documents/Ciência da Computação/Google Code Jam/A-small-practice.in.txt";
+	char filepath[] = "/A-small-practice.in.txt";
 
 	// Reading the  file.in
 	file = fopen(filepath, "r");
